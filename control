@@ -1,0 +1,9 @@
+Package: com.yourcompany.noupdateall
+Name: NoUpdateAll
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: BigTimeLegend
+Author: BigTimeLegend
+Section: Tweaks
